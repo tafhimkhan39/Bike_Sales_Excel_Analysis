@@ -15,7 +15,7 @@ The goal was to analyze and visualize sales data using Microsoft Excel and creat
 
 
 ## 📊 Dashboard Preview
-![Dashboard Preview](Image/Bike_Sales_Dashboard.png)
+![Dashboard Preview](Bike_Sales_Excel_Analysis/Image/Bike_Sales_Dashboard.png)
 
 ## 🛠 Tools Used
 - **Microsoft Excel** (Pivot Tables, Charts, Slicers)
